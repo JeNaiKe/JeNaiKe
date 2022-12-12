@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @JeNaiKe (João Duarte)
-- 👀 I’m interested in ... Newb game dev on godot, love ilde games that have actual gameplay
-- 🌱 I’m currently learning ... 3rd year of computer science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀  Newb game dev on godot, with growing interest in Angular develpment.
+- 🌱 3rd year of computer science course.
 
 <!---
 JeNaiKe/JeNaiKe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
