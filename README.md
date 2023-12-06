@@ -1,4 +1,2 @@
-yeaHo, I’m João Duarte!
-Newb game dev on godot, with growing interest in Angular develpment.
+I’m João Duarte!\
 Bachelor in computer science.
-
