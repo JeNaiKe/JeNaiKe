@@ -1,3 +1,3 @@
-I’m João Duarte!\
-Bachelor in computer science.\
-Learning web frameworks + godot.
+Hi, I’m João Duarte, with Bachelor in computer science from ESTGV.\
+Learning web frameworks + godot on past time.\
+Currently working as full-stack & devOp on Blockbastards. 
